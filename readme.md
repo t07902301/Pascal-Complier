@@ -7,7 +7,10 @@ This project provides a user-friendly interface for users to tranfer their Pasca
 
 ## Error Handling
 This complier is able to deal with lexical, syntax, and semantic error.
+
 ![Aaron Swartz](https://raw.githubusercontent.com/t07902301/Pascal-Complier/master/EH_1.jpg)
 ![Aaron Swartz](https://raw.githubusercontent.com/t07902301/Pascal-Complier/master/EH_2.jpg)
+
 When an error is caught, the interface will display related information.
+
 ![Aaron Swartz](https://raw.githubusercontent.com/t07902301/Pascal-Complier/master/ErrorHandling.jpg)
